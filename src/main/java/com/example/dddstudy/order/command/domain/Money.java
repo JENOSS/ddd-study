@@ -1,4 +1,4 @@
-package com.example.dddstudy.domain.order.model;
+package com.example.dddstudy.order.command.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
